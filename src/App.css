@@ -6,17 +6,47 @@ h6{
   font-family: sans-serif;
   text-align: center; 
 }
-.userinput
+.movie-poster
 {
-  height:300px;
-  width:300px;
+  width:340px;
+  height:500px;
+  object-fit:cover;
+}
+.movie-container
+{
+  
+  width:340px;
+}
+.movie-specs
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.movie-name
+{
+  font-size: 24px;
+  margin:0;
+}
+.movie-summary
+{
+  margin-top:0;
+}
+.movie-rating
+{
+  font-size: 28px;
+}
+.movie-list
+{
+  display:flex;
+  gap:16px;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 button.like{
 	width: 50px;
 	height: 50px;
 	margin: 0 auto;
-	line-heigth: 50px;
-	border-radius: 50%;
 	color: rgba(0,150,136 ,1);
 	background-color:rgba(38,166,154 ,0.3);
 	border-color: rgba(0,150,136 ,1);
@@ -27,12 +57,18 @@ button.dislike{
 	width: 50px;
 	height: 50px;
 	margin: 0 auto;
-	line-heigth: 50px;
-	border-radius: 50%;
+
 	color: rgba(255,82,82 ,1);
 	background-color: rgba(255,138,128 ,0.3);
 	border-color: rgba(255,82,82 ,1);
 	border-width: 1px;
 	font-size: 15px;
-  margin:10px;
+ 
+}
+
+.same
+{
+  display:flex;
+  gap:10px;
+ 
 }
