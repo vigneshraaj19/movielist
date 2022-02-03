@@ -12,7 +12,7 @@ rates:"9",directs:"Joseph Eggleston Johnston",summarys:"Marvel's The Avengers (c
 {names:"Jai Bhim",
   profile:"https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg",
 rates:"8.5",directs:"Joseph Eggleston Johnston",summarys:"Marvel's The Avengers (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland), or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name."},
-{names:"Baahubali",
+{names:"Baaahubali",
 profile:"https://flxt.tmsimg.com/assets/p11546593_p_v10_af.jpg",
 rates:"8.1",directs:"Joseph Eggleston Johnston",summarys:"Marvel's The Avengers (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland), or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name."}
  ];
